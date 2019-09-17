@@ -38,7 +38,7 @@ LOCAL_REQUIRED_MODULES := \
 	FontAdamCGinora \
 	FontReemKufi \
 	LightningCylinderSquareIconShape \
-	LightningRoundedSquareIconShape
+	LightningRoundedSquareIconShape \
 	AOSPThemeAndroidOverlay \
 	AOSPThemeSettingsOverlay \
 	AOSPThemeSystemUIOverlay \
