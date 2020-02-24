@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main color values -->
+    <color name="accent_device_default_light">#ff1a73e8</color>
+    <color name="accent_device_default_dark">#ff8ab4f8</color>
+    <color name="bootleg_accent_gradient_end_color">#ff8ab4f8</color>
+
+    <!-- Extra items to be tinted with the accent color -->
+    <color name="material_deep_teal_200">@*android:color/accent_device_default_light</color>
+    <color name="material_deep_teal_500">@*android:color/accent_device_default_light</color>
+    <color name="user_icon_1">@*android:color/accent_device_default_light</color>
+    <color name="accent_material_dark">@*android:color/accent_device_default_light</color>
+    <color name="accent_material_light">@*android:color/accent_device_default_light</color>
+    <color name="accent_device_default_50">@*android:color/accent_device_default_light</color>
+    <color name="accent_device_default_700">@*android:color/accent_device_default_light</color>
+</resources>

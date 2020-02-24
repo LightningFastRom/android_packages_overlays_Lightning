@@ -30,6 +30,7 @@ LOCAL_REQUIRED_MODULES := \
 	LineageYellowAccent \
 	LightningIndigoAccent \
 	LightningGoogleSansFont \
+	PisselBlue \
 	IconShapeSquare \
 	LightningCylinderSquareIconShape \
 	LightningRoundedSquareIconShape
