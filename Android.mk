@@ -33,6 +33,12 @@ LOCAL_REQUIRED_MODULES := \
 	IconShapeSquare \
 	LightningCylinderSquareIconShape \
 	LightningRoundedSquareIconShape
+	AOSPThemeAndroidOverlay \
+	AOSPThemeSettingsOverlay \
+	AOSPThemeSystemUIOverlay \
+	PisselThemeAndroidOverlay \
+	PisselThemeSettingsOverlay \
+	PisselThemeSystemUIOverlay \
 
 include $(BUILD_PHONY_PACKAGE)
 include $(CLEAR_VARS)
