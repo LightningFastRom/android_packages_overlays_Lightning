@@ -23,12 +23,12 @@ LOCAL_REQUIRED_MODULES := \
 	LineageBrownAccent \
 	LineageCyanAccent \
 	LineageGreenAccent \
-	LineageIndigoAccent \
 	LineageOrangeAccent \
 	LineagePinkAccent \
 	LineagePurpleAccent \
 	LineageRedAccent \
 	LineageYellowAccent \
+	LightningIndigoAccent \
 	LightningGoogleSansFont \
 	IconShapeSquare \
 	LightningCylinderSquareIconShape \

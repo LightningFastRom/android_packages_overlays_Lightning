@@ -17,10 +17,10 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := LineageIndigoAccent
+LOCAL_RRO_THEME := LightningIndigoAccent
 LOCAL_PRODUCT_MODULE := true
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := LineageIndigoAccent
+LOCAL_PACKAGE_NAME := LightningIndigoAccent
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
 include $(BUILD_RRO_PACKAGE)
