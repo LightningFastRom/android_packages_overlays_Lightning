@@ -16,16 +16,16 @@
  */
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.theme.font.googlesans"
+    package="com.bootleggers.shishufied.font.adamgcinora"
     android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="android"
         android:category="android.theme.customization.font"
         android:priority="1"/>
 
-    <application android:label="@string/font_google_sans_overlay" android:hasCode="false">
+    <application android:label="Adam CG / Ginora Sans" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="google-sans,google-sans-medium" />
+            android:value="adamcg-pro,ginora-sans" />
     </application>
 </manifest>

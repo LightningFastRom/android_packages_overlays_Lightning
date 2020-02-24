@@ -32,6 +32,11 @@ LOCAL_REQUIRED_MODULES := \
 	LightningGoogleSansFont \
 	PisselBlue \
 	IconShapeSquare \
+	FontBigNoodle \
+	FontMittelschrift \
+	FontBikoHanken \
+	FontAdamCGinora \
+	FontReemKufi \
 	LightningCylinderSquareIconShape \
 	LightningRoundedSquareIconShape
 	AOSPThemeAndroidOverlay \

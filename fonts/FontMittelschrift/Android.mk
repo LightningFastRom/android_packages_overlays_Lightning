@@ -17,12 +17,15 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := LightningGoogleSansFont
-LOCAL_PRODUCT_MODULE := true
-LOCAL_CERTIFICATE := platform
-LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := LightningGoogleSansFont
+LOCAL_RRO_THEME := FontMittelschrift
 
-LOCAL_PRIVATE_PLATFORM_APIS := true
+LOCAL_PRODUCT_MODULE := true
+
+LOCAL_SRC_FILES := $(call all-subdir-java-files)
+
+LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
+
+LOCAL_PACKAGE_NAME := FontMittelschrift
+LOCAL_SDK_VERSION := current
 
 include $(BUILD_RRO_PACKAGE)
