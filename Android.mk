@@ -17,34 +17,40 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE := lightning-overlays
 LOCAL_REQUIRED_MODULES := \
-	LineageBlackTheme \
-	LineageDarkTheme \
-	LineageBlueAccent \
-	LineageBrownAccent \
-	LineageCyanAccent \
-	LineageGreenAccent \
-	LineageOrangeAccent \
-	LineagePinkAccent \
-	LineagePurpleAccent \
-	LineageRedAccent \
-	LineageYellowAccent \
-	LightningIndigoAccent \
-	LightningGoogleSansFont \
-	PisselBlue \
-	IconShapeSquare \
-	FontBigNoodle \
-	FontMittelschrift \
-	FontBikoHanken \
-	FontAdamCGinora \
-	FontReemKufi \
-	LightningCylinderSquareIconShape \
-	LightningRoundedSquareIconShape \
-	AOSPThemeAndroidOverlay \
-	AOSPThemeSettingsOverlay \
-	AOSPThemeSystemUIOverlay \
-	PisselThemeAndroidOverlay \
-	PisselThemeSettingsOverlay \
-	PisselThemeSystemUIOverlay \
+    EtarBlueAccent \
+    EtarGreenAccent \
+    EtarOrangeAccent \
+    EtarPurpleAccent \
+    EtarRedAccent \
+    EtarTealAccent \
+    LineageBlackTheme \
+    LineageDarkTheme \
+    LineageBlueAccent \
+    LineageBrownAccent \
+    LineageCyanAccent \
+    LineageGreenAccent \
+    LineageOrangeAccent \
+    LineagePinkAccent \
+    LineagePurpleAccent \
+    LineageRedAccent \
+    LineageYellowAccent \
+    LightningIndigoAccent \
+    LightningGoogleSansFont \
+    PisselBlue \
+    IconShapeSquare \
+    FontBigNoodle \
+    FontMittelschrift \
+    FontBikoHanken \
+    FontAdamCGinora \
+    FontReemKufi \
+    LightningCylinderSquareIconShape \
+    LightningRoundedSquareIconShape \
+    AOSPThemeAndroidOverlay \
+    AOSPThemeSettingsOverlay \
+    AOSPThemeSystemUIOverlay \
+    PisselThemeAndroidOverlay \
+    PisselThemeSettingsOverlay \
+    PisselThemeSystemUIOverlay \
 
 include $(BUILD_PHONY_PACKAGE)
 include $(CLEAR_VARS)
@@ -53,3 +59,4 @@ LOCAL_MODULE := lightning-overlays-debug
 
 include $(BUILD_PHONY_PACKAGE)
 include $(call first-makefiles-under,$(LOCAL_PATH))
+
