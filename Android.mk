@@ -34,7 +34,7 @@ LOCAL_REQUIRED_MODULES := \
     LineagePurpleAccent \
     LineageRedAccent \
     LineageYellowAccent \
-    LightningIndigoAccent \
+    LightningBlue \
     LightningGoogleSansFont \
     PisselBlue \
 	Test \
