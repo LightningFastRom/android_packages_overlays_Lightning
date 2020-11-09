@@ -37,6 +37,7 @@ LOCAL_REQUIRED_MODULES := \
     LightningIndigoAccent \
     LightningGoogleSansFont \
     PisselBlue \
+	Test \
     IconShapeSquare \
     FontBigNoodle \
     FontMittelschrift \
@@ -51,6 +52,65 @@ LOCAL_REQUIRED_MODULES := \
     PisselThemeAndroidOverlay \
     PisselThemeSettingsOverlay \
     PisselThemeSystemUIOverlay \
+    AccentAmber \
+    AccentBlack \
+    AccentBlue \
+    AccentBlueGrey \
+    AccentBrown \
+    AccentCandyRed \
+    AccentCyan \
+    AccentDeepOrange \
+    AccentDeepPurple \
+    AccentExtendedGreen \
+    AccentGreen \
+    AccentGrey \
+    AccentIndigo \
+    AccentJadeGreen \
+    AccentLightBlue \
+    AccentLightGreen \
+    AccentLime \
+    AccentOrange \
+    AccentPaleBlue \
+    AccentPaleRed \
+    AccentPink \
+    AccentPurple \
+    AccentRed \
+    AccentTeal \
+    AccentYellow \
+    AccentWhite \
+    AccentUserOne \
+    AccentUserTwo \
+    AccentUserThree \
+    AccentUserFour \
+    AccentUserFive \
+    AccentUserSix \
+    AccentUserSeven \
+    AccentUserEight \
+    AccentUserNine \
+    AccentObfusBleu \
+    AccentNotImpPurple \
+    AccentHolillusion \
+    AccentMoveMint \
+    AccentFootprintPurple \
+    AccentBubblegumPink \
+    AccentFrenchBleu \
+    AccentStock \
+    AccentManiaAmber \
+    AccentSeasideMint \
+    AccentDreamyPurple \
+    AccentSpookedPurple \
+    AccentHeirloomBleu \
+    AccentTruFilPink \
+    AccentWarmthOrange \
+    AccentColdBleu \
+    AccentDiffDayGreen \
+    AccentDuskPurple \
+    AccentBurningRed \
+    AccentHazedPink \
+    AccentColdYellow \
+    AccentNewHouseOrange \
+    AccentIllusionsPurple \
+    AccentOnePlusRed \
 
 include $(BUILD_PHONY_PACKAGE)
 include $(CLEAR_VARS)
