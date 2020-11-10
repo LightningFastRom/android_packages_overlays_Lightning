@@ -44,8 +44,9 @@ LOCAL_REQUIRED_MODULES := \
     FontBikoHanken \
     FontAdamCGinora \
     FontReemKufi \
-    LightningCylinderSquareIconShape \
     LightningRoundedSquareIconShape \
+    LightningShieldShape \
+    LightningLemonShape \
     AOSPThemeAndroidOverlay \
     AOSPThemeSettingsOverlay \
     AOSPThemeSystemUIOverlay \
