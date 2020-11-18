@@ -34,6 +34,7 @@ LOCAL_REQUIRED_MODULES := \
     LineageRedAccent \
     LineageYellowAccent \
     LightningBlue \
+    LightningPanda \
     LightningGoogleSansFont \
     PisselBlue \
 	Test \
@@ -53,7 +54,6 @@ LOCAL_REQUIRED_MODULES := \
     PisselThemeSettingsOverlay \
     PisselThemeSystemUIOverlay \
     AccentAmber \
-    AccentBlack \
     AccentBlue \
     AccentBlueGrey \
     AccentBrown \
@@ -76,7 +76,6 @@ LOCAL_REQUIRED_MODULES := \
     AccentPurple \
     AccentRed \
     AccentYellow \
-    AccentWhite \
     AccentUserOne \
     AccentUserTwo \
     AccentUserThree \
