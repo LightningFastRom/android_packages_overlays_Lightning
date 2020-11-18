@@ -25,7 +25,6 @@ LOCAL_REQUIRED_MODULES := \
     EtarTealAccent \
     LineageBlackTheme \
     LineageDarkTheme \
-    LineageBlueAccent \
     LineageBrownAccent \
     LineageCyanAccent \
     LineageGreenAccent \
