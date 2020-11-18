@@ -30,7 +30,6 @@ LOCAL_REQUIRED_MODULES := \
     LineageCyanAccent \
     LineageGreenAccent \
     LineageOrangeAccent \
-    LineagePinkAccent \
     LineagePurpleAccent \
     LineageRedAccent \
     LineageYellowAccent \
@@ -76,7 +75,6 @@ LOCAL_REQUIRED_MODULES := \
     AccentPink \
     AccentPurple \
     AccentRed \
-    AccentTeal \
     AccentYellow \
     AccentWhite \
     AccentUserOne \
