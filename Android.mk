@@ -108,6 +108,7 @@ LOCAL_REQUIRED_MODULES := \
     AccentNewHouseOrange \
     AccentIllusionsPurple \
     AccentOnePlusRed \
+    k9mailOverlay \
 
 include $(BUILD_PHONY_PACKAGE)
 include $(CLEAR_VARS)
