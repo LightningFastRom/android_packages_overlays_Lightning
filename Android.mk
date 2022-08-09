@@ -35,23 +35,10 @@ LOCAL_REQUIRED_MODULES := \
     LightningBlue \
     LightningPanda \
     LightningGoogleSansFont \
-    PisselBlue \
-	Test \
-    IconShapeSquare \
-    FontBigNoodle \
-    FontMittelschrift \
-    FontBikoHanken \
-    FontAdamCGinora \
-    FontReemKufi \
     LightningRoundedSquareIconShape \
     LightningShieldShape \
     LightningLemonShape \
-    AOSPThemeAndroidOverlay \
-    AOSPThemeSettingsOverlay \
-    AOSPThemeSystemUIOverlay \
-    PisselThemeAndroidOverlay \
-    PisselThemeSettingsOverlay \
-    PisselThemeSystemUIOverlay \
+    IconShapeSquare \
     AccentAmber \
     AccentBlue \
     AccentBlueGrey \
